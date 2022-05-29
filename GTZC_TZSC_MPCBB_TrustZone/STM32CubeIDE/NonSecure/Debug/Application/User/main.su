@@ -1,0 +1,7 @@
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:92:5:main	16	static
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:186:5:__io_putchar	16	static
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:193:5:__io_getchar	24	static
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:229:6:HAL_GPIO_EXTI_Rising_Callback	16	static
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:244:6:SecureFault_Callback	8	static
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:261:6:SecureError_Callback	8	static
+C:/Users/lotfi/Desktop/PROJET M1 TrustZone/GTZC_TZSC_MPCBB_TrustZone/NonSecure/Src/main.c:276:6:Error_Handler	4	static
