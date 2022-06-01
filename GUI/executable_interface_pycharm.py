@@ -59,7 +59,7 @@ class PyClavierCtrl:
         self._view.buttons['C'].clicked.connect(self._view.clearDisplay)
 
 ##########################################################################################""
-# Create a subclass of QMainWindow to setup the calculator's GUI
+# Create a subclass of QMainWindow to setup the Keyboard's GUI
 class PyClavierUi(QMainWindow):
 
     # Snip
@@ -150,7 +150,7 @@ class Principal(QtWidgets.QMainWindow):
 
     def __init__(self, parent=None):
         """Initialise la fenêtre"""
-        #uic.loadUi(r'C:\Users\ines\interface_STM32.ui',self)
+        
         super(Principal, self).__init__()
         self.setWindowTitle(u"TrustZone log in")
         self.setFixedSize(400, 400)
